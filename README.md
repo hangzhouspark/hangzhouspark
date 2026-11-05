@@ -1,21 +1,23 @@
 <div align="center">
-
-<img src="assets/profile-banner.jpg" width="100%" alt="Hate — Field Notes / Personal Code Archive" />
-
-<p><strong>把小想法做成能用的工具。</strong><br />本地优先 · 自动化 · 实用应用</p>
-
-<p>
-  <a href="#selected-projects">精选项目</a> ·
-  <a href="https://github.com/hangzhouspark?tab=repositories">全部仓库</a>
-</p>
-
+<table>
+  <tr>
+    <td width="52%"><img src="assets/profile-art.jpg" width="100%" alt="Hate — dark red personal archive artwork" /></td>
+    <td width="48%" valign="middle">
+      <p><sub>FIELD NOTES / 001</sub></p>
+      <h1>Hate</h1>
+      <p><strong>PERSONAL CODE ARCHIVE</strong></p>
+      <p>把小想法做成能用的工具。<br />本地优先 · 自动化 · 实用应用</p>
+    </td>
+  </tr>
+</table>
+<p><a href="#selected-projects">精选项目</a> · <a href="https://github.com/hangzhouspark?tab=repositories">全部仓库</a></p>
 </div>
 
 ---
 
 ## About
 
-我关注本地优先的工具与实用应用，平时会做字幕工作流、仓库管理、CS2 战术工具和 Codex 写作技能。这里收录我正在维护和尝试的项目。
+我关注本地优先的工具与实用应用，平时会做字幕工作流、仓库管理、CS2 战术工具和 Codex 写作技能。这里展示一些公开项目与创作。
 
 ## Selected Projects
 
@@ -40,4 +42,4 @@
 
 ---
 
-<p align="center"><sub>FIELD NOTES / 001 · HANGZHOUSPARK</sub></p>
+<p align="center"><sub>HANGZHOUSPARK · CODE · CREATE</sub></p>
