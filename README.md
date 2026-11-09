@@ -1,16 +1,5 @@
 <div align="center">
-<table>
-  <tr>
-    <td width="52%"><img src="assets/profile-art.jpg" width="100%" alt="Hate — dark red personal archive artwork" /></td>
-    <td width="48%" valign="middle">
-      <p><sub>FIELD NOTES / 001</sub></p>
-      <h1>Hate</h1>
-      <p><strong>PERSONAL CODE ARCHIVE</strong></p>
-      <p>把小想法做成能用的工具。<br />本地优先 · 自动化 · 实用应用</p>
-    </td>
-  </tr>
-</table>
-<p><a href="#selected-projects">精选项目</a> · <a href="https://github.com/hangzhouspark?tab=repositories">全部仓库</a></p>
+  <img src="assets/profile-art.jpg" width="100%" alt="Hate — dark red personal archive artwork" />
 </div>
 
 ---
