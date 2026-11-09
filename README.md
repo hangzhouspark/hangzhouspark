@@ -21,24 +21,17 @@
 
 ## Selected Projects
 
-### 01 · [dsh-auto-subtitle](https://github.com/hangzhouspark/dsh-auto-subtitle)
+### 01 · [EducationSystem](https://github.com/hangzhouspark/EducationSystem)
 
-本地音视频字幕工具，生成原语言与中文双语字幕；支持 99 种语言识别，无需 API Key。
+基于 Spring Boot + MyBatis + MySQL 的在线教学辅助平台：学生 / 教师 / 管理员三种角色，覆盖课件与视频上传下载、师生问答交流。
 
-### 02 · [CS2 战术板](https://github.com/hangzhouspark/cs2-tactics-board)
+### 02 · [cs2-tactics-board](https://github.com/hangzhouspark/cs2-tactics-board)
 
-纯本地、全中文的 CS2 战术演示工具。可在雷达图上绘制路线、安排站位与道具，并导出 PNG。
+纯本地、全中文的 CS2 战术演示工具。可在 10 张地图雷达图上绘制路线、安排站位与道具，并导出 PNG 与战术 JSON。
 
-### 03 · 仓库出入库管理系统
+### 03 · [Qianxi-Translate](https://github.com/hangzhouspark/Qianxi-Translate)
 
-前后端分仓的管理应用：Vue 3 / TypeScript 管理台与 Spring Boot / Java 17 后端，覆盖出入库、库存、预警和数据管理。
-
-- [前端：warehouse-admin-web](https://github.com/hangzhouspark/warehouse-admin-web)
-- [后端：warehouse-backend](https://github.com/hangzhouspark/warehouse-backend)
-
-### 04 · [WeChat Official Account](https://github.com/hangzhouspark/WeChat-Official-Account)
-
-一组 Codex Skills，用于生成 GitHub 项目推荐、冷知识科普与 GitHub 周榜文章。
+轻量 Chromium 翻译扩展（Manifest V3）：支持整页翻译、划词翻译，以及基于本地 OCR 的图片翻译。
 
 ---
 
